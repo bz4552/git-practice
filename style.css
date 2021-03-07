@@ -72,10 +72,12 @@ footer {
   }
   main {
     width: 100%;
+    margin: 20px
   }
   .step-box {
     width: 90%;
     margin-right: 20px;
+    padding: 10px;
   }
 }
 
@@ -85,9 +87,11 @@ footer {
   }
   main {
     width: 100%;
+    margin: 20px;
   }
   .step-box {
     width: 90%;
     margin-right: 20px;
+    padding: 10px;
   }
 }
